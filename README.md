@@ -1,0 +1,1 @@
+# Technical_Indicators_Aggregate_Model
